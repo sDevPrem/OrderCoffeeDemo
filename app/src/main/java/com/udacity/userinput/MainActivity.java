@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
     //converting numbers to local currency
     private <T extends Number> String formatNum(T num) {
-        return NumberFormat.getCurrencyInstance().format(num);
+        return NumberFormat.getCurrencyInstance(new Locale("en", "IN")).format(num);
     }
 
     /**
