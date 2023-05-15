@@ -8,3 +8,6 @@ The pricing is as follow:
     1. Chocolate (optional) - ₹2 per cup
     2. Whipped Cream (optional) - ₹1 per cup
 3. Service charge - ₹5 for orders below ₹200
+
+## Screenshot
+![screenshot](screenshot/screenshot.png "screenshot")
