@@ -10,4 +10,4 @@ The pricing is as follow:
 3. Service charge - ₹5 for orders below ₹200
 
 ## Screenshot
-![screenshot](screenshot/screenshot.png "screenshot")
+![screenshot](https://github.com/sDevPrem/OrderCoffeeDemo/assets/130966261/53b69dd1-37b3-4bbd-908c-093e40aeb0ea "screenshot")
